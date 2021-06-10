@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gadget-apps
+- 👋 Hi, I’m Marcio Mazzei
 - 👀 I’m interested in android studio and java language
 - 🌱 I’m currently learning android development
 
